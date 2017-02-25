@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="mono.android1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/cstest/cstest.Droid/obj/Release/android/bin/mono.android.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

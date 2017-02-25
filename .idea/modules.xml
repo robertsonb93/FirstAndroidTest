@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cstest/cstest.Droid/obj/Debug/Debug.iml" filepath="$PROJECT_DIR$/cstest/cstest.Droid/obj/Debug/Debug.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cstest/cstest.Droid/Properties/Properties.iml" filepath="$PROJECT_DIR$/cstest/cstest.Droid/Properties/Properties.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cstest/cstest.Droid/obj/Release/Release.iml" filepath="$PROJECT_DIR$/cstest/cstest.Droid/obj/Release/Release.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cstest/cstest.Droid/obj/Debug/android/android.iml" filepath="$PROJECT_DIR$/cstest/cstest.Droid/obj/Debug/android/android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cstest/cstest.Droid/obj/Release/android/android1.iml" filepath="$PROJECT_DIR$/cstest/cstest.Droid/obj/Release/android/android1.iml" />
+    </modules>
+  </component>
+</project>
